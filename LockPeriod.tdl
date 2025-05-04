@@ -20,7 +20,7 @@ Title  : "Date Open Period"
     Object : Company
 
     [Form : DatelockFunction1]
-        Part    		: DateLockfunctionTitle, Datelockfunctio
+        Part    		: DateLockfunctionTitle, Datelockfunction
 		Width   		: 50% Screen
 
         [Part : DateLockfunctionTitle]
